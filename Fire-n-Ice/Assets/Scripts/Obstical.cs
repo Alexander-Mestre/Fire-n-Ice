@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EnemyScript : MonoBehaviour
+public class Obstical : MonoBehaviour
 {
    public Material[] materials;
    public int currentMaterial;

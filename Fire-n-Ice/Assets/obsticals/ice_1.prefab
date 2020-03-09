@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 1184210020637781126}
   - component: {fileID: 8424724893444329833}
   m_Layer: 0
-  m_Name: obs_1
+  m_Name: ice_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

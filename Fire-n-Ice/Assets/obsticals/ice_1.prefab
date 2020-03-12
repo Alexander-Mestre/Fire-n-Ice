@@ -104,6 +104,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 36b747d985a577145b5b992a22f41c01, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  materials: []
+  materials:
+  - {fileID: 2100000, guid: fb449d281177e134aac8d032f1123cfe, type: 2}
+  - {fileID: 2100000, guid: 2dbff75b77968f148b8218a90c6e26f8, type: 2}
   currentMaterial: 0
   EnemyHealth: 10
